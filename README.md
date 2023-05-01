@@ -1,4 +1,5 @@
-                                         ### Hola Mi Nombre es Milton Sosa 👋
+
+<img src="https://img.icons8.com/carbon-copy/30/000000/info.png"/> Hola, mi nombre es Milton Sosa 👋
 <p align="center">
   <img src="./img/img-tecl.jpg" width="100%"  height="300">
 </p>
