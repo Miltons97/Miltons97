@@ -1,4 +1,4 @@
-### Hola Mi Nombre es Milton Sosa 👋
+                                         ### Hola Mi Nombre es Milton Sosa 👋
 <p align="center">
   <img src="./img/img-tecl.jpg" width="100%"  height="300">
 </p>
@@ -23,6 +23,6 @@ Además de mi experiencia técnica, también tengo habilidades en la comunicaci�
 ## Contacto y apoyo:
 
 
-[![Email](https://img.shields.io/badge/milton.sosa1901@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](milton.sosa1901@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:milton.sosa1901@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sígueme-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/milton-sosa-6b671524b//)
