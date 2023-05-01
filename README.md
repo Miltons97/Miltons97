@@ -1,8 +1,8 @@
 ### Hi there 👋
 -----------------Milton Eduardo Sosa --------------------
-
-   <video  src="./video/videoCode.mp4" autoPlay loop muted  ref={videoRef}/>
-
+<p align="center">
+  <img src="./img/imgDev.jpg" width="100%"  height="400">
+</p>
 Soy una persona eficaz y responsable  , me gusta investigar ,  Me gradué del bootcamp "Soy Henry" donde adquirí conocimientos en tecnologías como JavaScript, HTML, CSS, React.js, Redux, Node.js, entre otras. Además, tengo experiencia en la creación y desarrollo de aplicaciones tanto en el frontend como en el backend.
 
 En mis proyectos, he trabajado en equipo, liderando y colaborando con otros desarrolladores. También he desarrollado habilidades en la resolución de problemas y la toma de decisiones bajo presión, siempre enfocado en cumplir los objetivos en tiempo y forma.
